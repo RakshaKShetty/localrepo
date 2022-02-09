@@ -1,0 +1,17 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F3F1C7",
+  "icon": "team",
+  "slug": "untitled-application-1",
+  "evaluationVersion": 2,
+  "publishedModeThemeId": "620251844c51f0722a0c67c8",
+  "editModeThemeId": "620251844c51f0722a0c67c8",
+  "createdAt": {
+    "seconds": 1644379669,
+    "nanos": 684000000
+  },
+  "deleted": false
+}
